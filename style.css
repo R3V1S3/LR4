@@ -1,0 +1,16 @@
+body {
+background-color:rgb(173,255,47);
+height: 120em;
+width: 100%;
+}
+h1 {
+	font-family:cursive;
+	text-align: center;
+	 font-size:25px;
+	 background: #FFFFFF;
+background: -webkit-linear-gradient(to bottom, #FFFFFF 0%, #0000FF 33%, #FF0818 66%);
+background: -moz-linear-gradient(to bottom, #FFFFFF 0%, #0000FF 33%, #FF0818 66%);
+background: linear-gradient(to bottom, #FFFFFF 0%, #0000FF 33%, #FF0818 66%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
